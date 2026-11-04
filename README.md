@@ -6,7 +6,7 @@ I'm a B.Eng. student in Electronic and Computer Engineering (EE track) at The Ch
 
 My current interests are **model-based control, robot learning, and physical human–robot interaction**. My research includes adaptive model predictive control (MPC) at iHEAR Lab and learning and whole-body control for modular robots at Freeform Robotics Lab.
 
-[Website](https://block-o2.github.io/) · [Research CV](https://block-o2.github.io/Xiaohang_Li_CV.pdf?v=20261104) (academic name: Xiaohang Li)
+[Website](https://block-o2.github.io/) · [Research CV](https://block-o2.github.io/Xiaohang_Li_CV.pdf?v=20261104) 
 
 ## Selected projects
 
