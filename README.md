@@ -16,4 +16,4 @@ My current interests are **model-based control, robot learning, and physical hum
 - **[NavRL Replication](https://github.com/Block-O2/NavRL_replication)** — Reproduction work in Isaac Sim, checkpoint comparisons, and ROS integration preparation, with simulation/offline evidence and no real-flight validation.
 - **[Personal Website](https://github.com/Block-O2/Block-O2.github.io)** — Research background, project demonstrations, and my one-page research CV.
 
-**Ongoing control research:** [adaptive-traction-mpc](https://github.com/Block-O2/adaptive-traction-mpc) — Simulation-based engineering and research on adaptive MPC for robot-assisted lower-limb rehabilitation at iHEAR Lab. Work in progress; no hardware or clinical validation.
+**Ongoing control research:** [adaptive-traction-mpc](https://github.com/Block-O2/adaptive-traction-mpc) — Simulation-based engineering and research on adaptive MPC for robot-assisted lower-limb rehabilitation at iHEAR Lab. 
